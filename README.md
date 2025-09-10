@@ -17,3 +17,18 @@ JavaScript: To handle the stopwatch logic, time formatting, and user interaction
 Clone or download this repository.
 Open the stopwatch.html file directly in your preferred web browser (e.g., Chrome, Firefox, Edge).
 
+## Main Look
+<img width="1630" height="890" alt="Screenshot 2025-09-10 085538" src="https://github.com/user-attachments/assets/8f829678-edf9-4f0b-ab05-d9e36fa0c40d" />
+
+## Start
+<img width="1625" height="886" alt="Screenshot 2025-09-10 085557" src="https://github.com/user-attachments/assets/14fdbd36-a047-4287-818d-0ff54c66a776" />
+
+## Lap
+<img width="1525" height="906" alt="Screenshot 2025-09-10 085616" src="https://github.com/user-attachments/assets/1272c4c4-34ac-4c64-b723-85d859f1d19b" />
+
+## Pause
+<img width="1484" height="931" alt="Screenshot 2025-09-10 085631" src="https://github.com/user-attachments/assets/45a5e725-2439-462d-9d61-cc556d71b88b" />
+
+
+
+
