@@ -1,4 +1,4 @@
-# PRODIGY_WD_03
+# PRODIGY_WD_03 (STOPWATCH)
 ## Self-Contained Stopwatch
 A simple, modern, and fully functional stopwatch application built with zero external dependencies. This project is a single-file web application that you can run in any modern browser.
 
@@ -17,6 +17,7 @@ JavaScript: To handle the stopwatch logic, time formatting, and user interaction
 Clone or download this repository.
 Open the stopwatch.html file directly in your preferred web browser (e.g., Chrome, Firefox, Edge).
 
+## 📸 Screenshot
 ## Main Look
 <img width="1630" height="890" alt="Screenshot 2025-09-10 085538" src="https://github.com/user-attachments/assets/8f829678-edf9-4f0b-ab05-d9e36fa0c40d" />
 
